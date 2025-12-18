@@ -21,8 +21,8 @@
 | Feature | Description |
 |---------|-------------|
 | 🔗 **Dual-Hypergraph Architecture** | Separates entity-level and theme-level knowledge representation for richer context modeling |
-| 🎯 **High-Order Relationship Modeling** | Captures multi-entity relationships beyond traditional binary edges |
-| 🧠 **Two-Stage Retrieval Pipeline** | Theme aware → Entity alignment for cognitive-inspired retrieval |
+| 🎯 **High-Order Relationship Model** | Captures multi-entity relationships beyond traditional binary edges |
+| 🧠 **Two-Stage Retrieval** | Theme awareness → Entity alignment for cognitive-inspired retrieval |
 | 🔄 **Multiple Query Modes** | Flexible strategies optimized for different retrieval scenarios |
 | 📦 **Easy Integration** | Simple API compatible with OpenAI, local LLMs, and custom models |
 
