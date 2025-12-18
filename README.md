@@ -62,8 +62,8 @@ git clone https://github.com/haoohu/Cog-RAG.git
 cd Cog-RAG
 
 # Create virtual environment with conda
-conda create -n cog-rag python=3.10
-conda activate cog-rag
+conda create -n cograg python=3.10
+conda activate cograg
 
 # Install dependencies
 pip install -r requirements.txt
