@@ -141,8 +141,7 @@ The `examples/` directory contains:
 Run the demo:
 
 ```bash
-cd examples
-python cograg_demo.py
+python ./examples/cograg_demo.py
 ```
 
 ---
