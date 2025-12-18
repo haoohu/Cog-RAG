@@ -1,20 +1,20 @@
 # Cog-RAG Dependencies
 # Core async and HTTP
-aiohttp>=3.8.0
-aioboto3>=12.0.0
+aiohttp
+aioboto3
 
 # LLM Integration  
-openai>=1.0.0
-tenacity>=8.0.0
-tiktoken>=0.5.0
+openai
+tenacity
+tiktoken
 
 # Vector Storage
-nano-vectordb>=0.0.6
-numpy>=1.24.0
+nano-vectordb
+numpy
 
 # Hypergraph Storage
-hypergraph-db>=0.1.0
+hypergraph-db
 
 # Utilities
-xxhash>=3.0.0
-pydantic>=2.0.0
+xxhash
+pydantic
