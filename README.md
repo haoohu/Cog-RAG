@@ -2,7 +2,7 @@
 
 # 🧠 Cog-RAG
 
-**Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation**
+**[AAAI2026] Cog-RAG: Cognitive-Inspired Dual-Hypergraph with Theme Alignment Retrieval-Augmented Generation**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![AAAI 2026](https://img.shields.io/badge/AAAI-2026-orange.svg)](https://aaai.org/conference/aaai/aaai-26/)
 
